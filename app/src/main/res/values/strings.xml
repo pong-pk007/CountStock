@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ระบบเช็คสต็อกผ่านมือถือ</string>
+    <string name="err_msg_name">โปรดกรอก ชื่อผู้ใช้</string>
+    <string name="err_msg_password">โปรดกรอก รหัสผ่าน</string>
+    <string name="title_activity_check">Check</string>
+</resources>
